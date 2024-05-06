@@ -1,0 +1,7 @@
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous_Income_Comparison_Program\Anonymous_Income_Comparison_Program\bin\Debug\Anonymous_Income_Comparison_Program.exe.config
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous_Income_Comparison_Program\Anonymous_Income_Comparison_Program\bin\Debug\Anonymous_Income_Comparison_Program.exe
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous_Income_Comparison_Program\Anonymous_Income_Comparison_Program\bin\Debug\Anonymous_Income_Comparison_Program.pdb
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous_Income_Comparison_Program\Anonymous_Income_Comparison_Program\obj\Debug\Anonymous_Income_Comparison_Program.csproj.AssemblyReference.cache
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous_Income_Comparison_Program\Anonymous_Income_Comparison_Program\obj\Debug\Anonymous_Income_Comparison_Program.csproj.CoreCompileInputs.cache
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous_Income_Comparison_Program\Anonymous_Income_Comparison_Program\obj\Debug\Anonymous_Income_Comparison_Program.exe
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous_Income_Comparison_Program\Anonymous_Income_Comparison_Program\obj\Debug\Anonymous_Income_Comparison_Program.pdb
