@@ -1,0 +1,7 @@
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Approval_program_for_car_insurance\Approval_program_for_car_insurance\bin\Debug\Approval_program_for_car_insurance.exe.config
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Approval_program_for_car_insurance\Approval_program_for_car_insurance\bin\Debug\Approval_program_for_car_insurance.exe
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Approval_program_for_car_insurance\Approval_program_for_car_insurance\bin\Debug\Approval_program_for_car_insurance.pdb
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Approval_program_for_car_insurance\Approval_program_for_car_insurance\obj\Debug\Approval_program_for_car_insurance.csproj.AssemblyReference.cache
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Approval_program_for_car_insurance\Approval_program_for_car_insurance\obj\Debug\Approval_program_for_car_insurance.csproj.CoreCompileInputs.cache
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Approval_program_for_car_insurance\Approval_program_for_car_insurance\obj\Debug\Approval_program_for_car_insurance.exe
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Approval_program_for_car_insurance\Approval_program_for_car_insurance\obj\Debug\Approval_program_for_car_insurance.pdb
