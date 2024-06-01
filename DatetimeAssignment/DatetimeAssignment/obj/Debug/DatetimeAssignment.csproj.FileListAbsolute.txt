@@ -1,0 +1,7 @@
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe.config
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.pdb
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.AssemblyReference.cache
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.exe
+C:\Users\kexii\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.pdb
