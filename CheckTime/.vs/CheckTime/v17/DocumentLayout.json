@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kexii\\source\\repos\\CheckTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06064EAF-802C-44A8-BB40-F7D58FB5CACF}|CheckTime\\CheckTime.csproj|c:\\users\\kexii\\source\\repos\\checktime\\checktime\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06064EAF-802C-44A8-BB40-F7D58FB5CACF}|CheckTime\\CheckTime.csproj|solutionrelative:checktime\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06064EAF-802C-44A8-BB40-F7D58FB5CACF}|CheckTime\\CheckTime.csproj|c:\\users\\kexii\\source\\repos\\checktime\\checktime\\pages\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06064EAF-802C-44A8-BB40-F7D58FB5CACF}|CheckTime\\CheckTime.csproj|solutionrelative:checktime\\pages\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06064EAF-802C-44A8-BB40-F7D58FB5CACF}|CheckTime\\CheckTime.csproj|c:\\users\\kexii\\source\\repos\\checktime\\checktime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06064EAF-802C-44A8-BB40-F7D58FB5CACF}|CheckTime\\CheckTime.csproj|solutionrelative:checktime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\kexii\\source\\repos\\CheckTime\\CheckTime\\Pages\\Clock.cs",
+              "RelativeDocumentMoniker": "CheckTime\\Pages\\Clock.cs",
+              "ToolTip": "C:\\Users\\kexii\\source\\repos\\CheckTime\\CheckTime\\Pages\\Clock.cs",
+              "RelativeToolTip": "CheckTime\\Pages\\Clock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:50:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kexii\\source\\repos\\CheckTime\\CheckTime\\Program.cs",
+              "RelativeDocumentMoniker": "CheckTime\\Program.cs",
+              "ToolTip": "C:\\Users\\kexii\\source\\repos\\CheckTime\\CheckTime\\Program.cs",
+              "RelativeToolTip": "CheckTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:35:32.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kexii\\source\\repos\\CheckTime\\CheckTime\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CheckTime\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kexii\\source\\repos\\CheckTime\\CheckTime\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CheckTime\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:29:01.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
